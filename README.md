@@ -1,5 +1,8 @@
 # soundplot
 
+![Screenshot of soundplot](/screenshot.png)
+_soundplot displaying part of "the duck song"_
+
 This is a simple program that visualizes your sound files. It accepts a raw sound file and it creates a window, the plots the hilbert curve for every sample, with the color value being the frequency of it.
 
 This project was inspired by [this](https://www.youtube.com/watch?v=3s7h2MHQtxc&t=147s) video by 3Blue1Brown.
